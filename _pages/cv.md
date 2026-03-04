@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Zander Zhou - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
