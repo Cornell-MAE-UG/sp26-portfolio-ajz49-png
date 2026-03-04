@@ -8,11 +8,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Zander Zhou
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
+name                     : Zander Zhou
+description              : Zander Zhou - Projects and CV 
 baseurl                  : "/sp26-portfolio-ajz49-png/" # Set this to your repo name 
 
 # Theme and Style
