@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : Zander Zhou
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : This is a subtitle # site tagline that appears below site title in masthead
 name                     : Zander Zhou
 description              : Zander Zhou - Projects and CV 
 baseurl                  : "/sp26-portfolio-ajz49-png/" # Set this to your repo name 
