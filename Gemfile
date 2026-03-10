@@ -8,3 +8,4 @@ gem "jekyll-include-cache"
 gem "jekyll-feed"
 
 gem "github-pages", group: :jekyll_plugins
+
