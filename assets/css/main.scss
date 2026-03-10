@@ -3,6 +3,7 @@
 # this ensures Jekyll reads the file to be transformed into CSS later
 # only Main files contain this front matter, not partials.
 */
+//I have discovered that Jekyll requires these three dashes for a preamble regardless of whether or not something is in them
 ---
 
 $color_scheme: '{{ site.color_scheme }}';
