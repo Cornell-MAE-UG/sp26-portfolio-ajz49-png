@@ -6,7 +6,7 @@ title: Zander Zhou
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/zander.jpg" | relative_url }}){: class="profile-image"}
 
  
 Yippity yap yap this is my first time using git like this; here's the file that goes on the front page I guess.
