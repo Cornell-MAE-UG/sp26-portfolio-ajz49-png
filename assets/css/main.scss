@@ -4,6 +4,7 @@
 # only Main files contain this front matter, not partials.
 */
 //I have discovered that Jekyll requires these three dashes for a preamble regardless of whether or not something is in them
+//also learned that the # is comment syntax in yaml, which is what these preambles will be interpreted in by jekyll
 ---
 
 $color_scheme: '{{ site.color_scheme }}';
