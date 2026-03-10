@@ -16,7 +16,7 @@ description              : Zander Zhou - Projects and CV
 baseurl                  : "/sp26-portfolio-ajz49-png/" # Set this to your repo name 
 
 # Theme and Style
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hydejack
 color_scheme: light # light/default, dark, or aqua
 
 sass:
