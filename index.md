@@ -13,4 +13,6 @@ The zander (Sander lucioperca), sander or pikeperch, is a species of ray-finned 
 
 See the <a href="https://en.wikipedia.org/wiki/Zander" target="_blank" rel="noopener noreferrer">Wikipedia page on zander</a> for more information.
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+N.B.: This is a homework assignment for one of my classes. Please do not treat this as a formal portfolio (at the moment, at least). If I am looking for a job, I am sure I have something better at this point.
+
+These are links to <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>. They don't really exist at the moment. Still trying to learn git, to be honest.
